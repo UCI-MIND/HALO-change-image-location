@@ -98,3 +98,8 @@ python main.py
 * If your lab/institute has a [HALO Link](https://indicalab.com/halo-link/) web server, visit its GraphQL workbench at the "/graphql" endpoint to quickly test GraphQL queries: https://halo.bowser.example.org/graphql
 * `gql` Python package documentation: https://gql.readthedocs.io/en/stable/
 * `truststore` Python package documentation (use system certificate stores): https://truststore.readthedocs.io/en/latest/
+
+# Funding
+
+To support our work and ensure future opportunities for development, please acknowledge the software and funding.
+The project was funded by The University of California, Irvine's Institute for Memory Impairments and Neurological Disorders (UCI MIND) grant, P30AG066519.
